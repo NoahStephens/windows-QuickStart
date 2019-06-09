@@ -23,7 +23,10 @@ If you don't want some of the packages thren just edit the shell scripts
 ## Windows Initialization
 
 - Enables Linux sub-system in windows
-- Completely uninstall cortona
+
+## Doing the Lords Work
+
+- Completely uninstal cortona
 
 ## Getting started
 
